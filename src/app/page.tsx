@@ -114,7 +114,7 @@ export default function Home() {
               <Button
                 size="lg"
                 className="bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-slate-950 font-semibold text-lg px-8 py-6 shadow-2xl shadow-amber-500/20"
-                onClick={() => window.open("https://shop.indiemoon.no/product/den-store-arkana/", "_blank")}
+                onClick={() => window.open("https://shop.indiemoon.no/produkt/den-store-arkana", "_blank")}
               >
                 Forhåndsbestill nå
               </Button>
@@ -390,7 +390,7 @@ export default function Home() {
                   <Button
                     size="lg"
                     className="w-full bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-slate-950 font-bold text-xl py-7 shadow-2xl shadow-amber-500/30"
-                    onClick={() => window.open("https://shop.indiemoon.no/product/den-store-arkana/", "_blank")}
+                    onClick={() => window.open("https://shop.indiemoon.no/produkt/den-store-arkana", "_blank")}
                   >
                     Forhåndsbestill Den Store Arkana
                   </Button>
